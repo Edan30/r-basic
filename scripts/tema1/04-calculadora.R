@@ -27,6 +27,8 @@
 
 pi
 
+# esto es un comentario
+
 15*pi
 
 3^pi
